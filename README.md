@@ -7,6 +7,9 @@ acceder a mobsf using http://127.0.0.1:8000/ dans navigateur
 
 <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/25107197-6bad-4b14-88aa-c7acc7423cfc" />
 
+![WhatsApp Image 2026-03-18 at 20 40 40](https://github.com/user-attachments/assets/d6ad92ff-d82f-43b5-9940-dfe89271a086)
+
+
 essayer un code dans insecure logging
 
 ![WhatsApp Image 2026-03-18 at 20 02 23](https://github.com/user-attachments/assets/d358a9a0-d7b6-4306-a056-f9aa553a58cd)
